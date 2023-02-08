@@ -1,5 +1,5 @@
 # Scouting Classification with Machine Learning
-![Scouting Classification with ML](https://user-images.githubusercontent.com/84645968/217363150-af61f02d-bba7-4521-a249-c3f5152c616f.png)
+![Scouting](https://user-images.githubusercontent.com/84645968/217650305-f7c2a203-6499-452a-9de6-35660c4a89c9.jpg)
 
 ## Business Story
 Predicting which class (average, highlighted) players are according to the scores given to the characteristics of the football players watched by the Scouts.
